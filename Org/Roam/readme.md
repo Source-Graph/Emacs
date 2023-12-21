@@ -1,0 +1,2 @@
+- [Getting Started with Org Roam - Build a Second Brain in Emacs](https://youtu.be/AyhPmypHDEw)
+- [I was wrong about org-roam](https://youtu.be/zRT4vNh-kV8)
