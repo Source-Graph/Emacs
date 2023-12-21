@@ -1,0 +1,1 @@
+- [Lex Fridman: Emacs vs Vim vs VSCode](https://youtu.be/fu0cYRCtNqY)
