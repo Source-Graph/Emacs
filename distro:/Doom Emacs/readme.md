@@ -1,1 +1,2 @@
 - [DOOM Emacs VS Neovim/Vim | Trying out Doom Emacs - Thoughts on Doom Emacs.](https://youtu.be/qvlNv16n6tM)
+- [Doom Emacs For Noobs](https://youtu.be/iab2z21cRqA)
